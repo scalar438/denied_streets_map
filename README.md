@@ -1,1 +1,3 @@
-# Список запрещённых для учебной езды улиц Казани
+# Denied streets map for driving practice in Kazan
+
+See https://scalar438.github.io/denied_streets_map/
